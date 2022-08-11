@@ -1,0 +1,7 @@
+ale_py==0.7.5
+ballbeam_gym==0.0.5
+gym==0.25.1
+matplotlib==3.5.2
+numpy==1.23.1
+stable_baselines3==1.6.0
+torch==1.12.1
